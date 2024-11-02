@@ -1,10 +1,10 @@
 # Data-Visualization
 Data visualization repository showcasing interactive visualizations and dashboards. Includes tools and scripts for exploring datasets, revealing insights through clear and engaging visual representations.
-# Netflix Dashboard <img src="https://img.shields.io/badge/Netflix" alt="Netflix" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
+# Netflix Dashboard <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white" alt="Netflix" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
 
 * Platforms and Tools Used :
   
-![Tableau](https://img.shields.io/badge/tableau) 	![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Tableau] ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 1. Overview :fountain_pen: :
 
