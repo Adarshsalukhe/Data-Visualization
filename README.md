@@ -4,7 +4,8 @@ Data visualization repository showcasing interactive visualizations and dashboar
 
 * Platforms and Tools Used :
   
-Tableau ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 1. Overview :fountain_pen: :
 
